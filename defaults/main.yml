@@ -1,0 +1,7 @@
+---
+# defaults file
+
+ansible_ssh_user:   ansible
+
+user_name:          user
+user_key:           ../files/id_rsa.pub
